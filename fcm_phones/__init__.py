@@ -2,7 +2,7 @@
 
 import pyrebase
 
-from fc_phones import config
+from fcm_phones import config
 
 
 class FCMApp:
